@@ -1,3 +1,4 @@
 node_modules/
-certs/
+data/*.xlsx
 data/storage.json
+.env8
